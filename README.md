@@ -1,8 +1,8 @@
-# SBST Transit – Data Engineering POC
+# SBST Transit – Data Engineer
 
 ## 📌 Overview
-This project is a **Proof of Concept (POC)** developed for **SBST Transit (Singapore)** during May 2025 – June 2025.  
-The objective was to demonstrate how **Talend Data Management Platform, PostgreSQL, and Qlik Sense** can be integrated to build an end-to-end data engineering workflow for reporting and analytics.
+This project is a project developed for **SBST Transit**
+The objective was to implemented **Talend Data Management Platform, PostgreSQL, and Qlik Sense** can be integrated to build an end-to-end data engineering workflow for reporting and analytics.
 
 ---
 
